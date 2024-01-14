@@ -21,7 +21,7 @@ const AppHeader = () => {
         <Box
           component="img"
           sx={styles.appLogo}
-          src="/src/assets/logo.png"
+          src="./assets/logo.png"
         />
         <Box sx={{ flexGrow: 1 }} />
         <IconButton title="Notifications" color="secondary">

@@ -26,7 +26,7 @@ const Dashboard = () => {
           <CardContent>
             <Typography variant="cardTitle">Latest Post</Typography>
             <Box sx={styles.postAuthorSection}>
-              <Avatar sx={styles.avatar} src="src/assets/avatar.jpg" />
+              <Avatar sx={styles.avatar} src="./assets/avatar.jpg" />
               <Typography sx={styles.postMeta}>Symoon & Co.</Typography>
               <Typography sx={styles.postMeta}>Jan 10, 2023</Typography>
             </Box>
@@ -114,7 +114,7 @@ const Dashboard = () => {
             </Typography>
 
             <Box sx={styles.commentRow}>
-              <Avatar sx={styles.avatar} src="src/assets/avatar.jpg" />
+              <Avatar sx={styles.avatar} src="./assets/avatar.jpg" />
 
               <Box>
                 <Box sx={styles.commentDetailsSection}>
@@ -129,14 +129,14 @@ const Dashboard = () => {
               <Box
                 component={"img"}
                 sx={styles.videoThumbnail}
-                src="src/assets/thumb-2.jpg"
+                src="./assets/thumb-2.jpg"
               />
             </Box>
 
             <Divider sx={styles.divider} />
 
             <Box sx={styles.commentRow}>
-              <Avatar sx={styles.avatar} src="src/assets/avatar.jpg" />
+              <Avatar sx={styles.avatar} src="./assets/avatar.jpg" />
 
               <Box>
                 <Box sx={styles.commentDetailsSection}>
@@ -150,13 +150,13 @@ const Dashboard = () => {
               <Box
                 component={"img"}
                 sx={styles.videoThumbnail}
-                src="src/assets/thumb-2.jpg"
+                src="./assets/thumb-2.jpg"
               />
             </Box>
             <Divider sx={styles.divider} />
 
             <Box sx={styles.commentRow}>
-              <Avatar sx={styles.avatar} src="src/assets/avatar.jpg" />
+              <Avatar sx={styles.avatar} src="./assets/avatar.jpg" />
 
               <Box>
                 <Box sx={styles.commentDetailsSection}>
@@ -170,7 +170,7 @@ const Dashboard = () => {
               <Box
                 component={"img"}
                 sx={styles.videoThumbnail}
-                src="src/assets/thumb-2.jpg"
+                src="./assets/thumb-2.jpg"
               />
             </Box>
             <Typography sx={styles.cardAction} variant="link">
@@ -197,7 +197,7 @@ const Dashboard = () => {
             <Box
               component={"img"}
               sx={styles.ideaImage}
-              src="src/assets/study-icon.png"
+              src="./assets/study-icon.png"
             />
           </CardContent>
         </Card>
@@ -209,7 +209,7 @@ const Dashboard = () => {
               <Box
                 component={"img"}
                 sx={styles.insiderImage}
-                src="src/assets/thumb-1.webp"
+                src="./assets/thumb-1.webp"
               />
               <Typography sx={styles.ideasQuestion}>
                 Ready to boost your skills using Ai?

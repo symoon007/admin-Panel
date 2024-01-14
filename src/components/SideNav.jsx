@@ -22,7 +22,7 @@ const SideNav = () => {
         <Avatar
           sx={styles.avatar}
           alt="Channel Name"
-          src="src/assets/avatar.jpg"
+          src="./assets/avatar.jpg"
         />
         {!collapsed ? (
           <Typography variant="body2" sx={styles.yourChannel}>

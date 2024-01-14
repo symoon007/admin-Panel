@@ -74,7 +74,7 @@ const columns = [
 const videos = [
   {
     id: 1,
-    thumbnail: "src/assets/thumb-1.webp",
+    thumbnail: "./assets/thumb-1.webp",
     visibilty: "Public",
     views: 152,
     comments: 12,
@@ -82,7 +82,7 @@ const videos = [
   },
   {
     id: 2,
-    thumbnail: "src/assets/thumb-2.jpg",
+    thumbnail: "./assets/thumb-2.jpg",
     visibilty: "Public",
     views: 457,
     comments: 45,
@@ -90,7 +90,7 @@ const videos = [
   },
   {
     id: 3,
-    thumbnail: "src/assets/thumb-3.jpg",
+    thumbnail: "./assets/thumb-3.jpg",
     visibilty: "Public",
     views: 2514,
     comments: 114,
@@ -98,7 +98,7 @@ const videos = [
   },
   {
     id: 4,
-    thumbnail: "src/assets/thumb-4.jpg",
+    thumbnail: "./assets/thumb-4.jpg",
     visibilty: "Public",
     views: 365,
     comments: 14,
@@ -106,7 +106,7 @@ const videos = [
   },
   {
     id: 5,
-    thumbnail: "src/assets/thumb-5.jpg",
+    thumbnail: "./assets/thumb-5.jpg",
     visibilty: "Public",
     views: 1256,
     comments: 47,
@@ -114,7 +114,7 @@ const videos = [
   },
   {
     id: 6,
-    thumbnail: "src/assets/thumb-6.jpg",
+    thumbnail: "./assets/thumb-6.jpg",
     visibilty: "Public",
     views: 475,
     comments: 32,
@@ -122,7 +122,7 @@ const videos = [
   },
   {
     id: 7,
-    thumbnail: "src/assets/thumb-2.jpg",
+    thumbnail: "./assets/thumb-2.jpg",
     visibilty: "Public",
     views: 2558,
     comments: 45,
@@ -130,7 +130,7 @@ const videos = [
   },
   {
     id: 8,
-    thumbnail: "src/assets/thumb-5.jpg",
+    thumbnail: "./assets/thumb-5.jpg",
     visibilty: "Public",
     views: 123,
     comments: 5,
@@ -138,7 +138,7 @@ const videos = [
   },
   {
     id: 9,
-    thumbnail: "src/assets/thumb-1.webp",
+    thumbnail: "./assets/thumb-1.webp",
     visibilty: "Public",
     views: 456,
     comments: 16,
@@ -146,7 +146,7 @@ const videos = [
   },
   {
     id: 10,
-    thumbnail: "src/assets/thumb-6.jpg",
+    thumbnail: "./assets/thumb-6.jpg",
     visibilty: "Public",
     views: 758,
     comments: 56,
@@ -154,7 +154,7 @@ const videos = [
   },
   {
     id: 11,
-    thumbnail: "src/assets/thumb-4.jpg",
+    thumbnail: "./assets/thumb-4.jpg",
     visibilty: "Public",
     views: 658,
     comments: 35,
@@ -165,7 +165,7 @@ const videos = [
 const posts = [
   {
     id: 1,
-    thumbnail: "src/assets/thumb-1.webp",
+    thumbnail: "./assets/thumb-1.webp",
     visibilty: "Public",
     views: 241,
     comments: 12,
@@ -173,7 +173,7 @@ const posts = [
   },
   {
     id: 2,
-    thumbnail: "src/assets/thumb-6.jpg",
+    thumbnail: "./assets/thumb-6.jpg",
     visibilty: "Public",
     views: 785,
     comments: 12,
@@ -181,7 +181,7 @@ const posts = [
   },
   {
     id: 3,
-    thumbnail: "src/assets/thumb-5.jpg",
+    thumbnail: "./assets/thumb-5.jpg",
     visibilty: "Public",
     views: 745,
     comments: 12,
@@ -192,7 +192,7 @@ const posts = [
 const playlists = [
   {
     id: 1,
-    thumbnail: "src/assets/thumb-4.jpg",
+    thumbnail: "./assets/thumb-4.jpg",
     visibilty: "Public",
     views: "251k",
     comments: 1452,
